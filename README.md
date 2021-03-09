@@ -1,3 +1,19 @@
+# Mercadolibre challenge
+
+MercadoLibre programming challenge for fullstack developer position.
+
+As seen on https://www.twitch.tv/videos/879130396
+
+Stack: [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Chakra UI](https://chakra-ui.com/)
+
+## MercadoLibre API
+
+Product list example: https://api.mercadolibre.com/sites/MLA/search?q=lucky%20luke
+
+Product by Id example: https://api.mercadolibre.com/items/MLA741624051
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
